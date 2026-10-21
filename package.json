@@ -1,5 +1,5 @@
 {
-  "name": "@appierun/cli",
+  "name": "@appie_ai/cli",
   "version": "0.1.0",
   "description": "Command-line client for the Appie.run API: short links, articles, chatbots, Reddit and LinkedIn tools.",
   "bin": { "appie": "bin/appie.js" },

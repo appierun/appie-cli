@@ -1,4 +1,4 @@
-# @appierun/cli
+# @appie_ai/cli
 
 Command-line client for [Appie.run](https://appie.run), the AI marketing stack: website chatbots, an article writer that writes in your brand voice, trackable short links, and Reddit and LinkedIn growth tools.
 
@@ -11,7 +11,7 @@ Full API reference: <https://appie.run/docs/api>
 Requires Node.js 18 or newer. No dependencies.
 
 ```bash
-npm i -g @appierun/cli
+npm i -g @appie_ai/cli
 ```
 
 ## Get an API key
