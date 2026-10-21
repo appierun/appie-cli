@@ -6,6 +6,27 @@ Command-line client for [Appie.run](https://appie.run), the AI marketing stack: 
 
 Full API reference: <https://appie.run/docs/api>
 
+## Appie.run apps
+
+| App | What it does |
+| --- | --- |
+| [AI Chatbots](https://appie.run/ai-chatbots) | AI chatbots trained on your pages and files: embed a widget, answer visitors in your brand voice, and capture leads. |
+| [Content Writer](https://appie.run/content-writer) | Write light and deep articles in your own voice; Appie researches your sources, then drafts posts you can publish. |
+| [Smart URL Shortener](https://appie.run/url-shortener) | Short links on s.appie.run with click analytics, location, device insights, and QR-code tracking. |
+| [Reddit Marketing](https://appie.run/reddit-marketing) | Find Reddit threads about your brand and draft replies that sound like you. |
+| [LinkedIn Growth](https://appie.run/linkedin-growth) | Track LinkedIn profiles, pull engagers into your CRM, and turn activity into outreach-ready leads. |
+| [Twitter Marketing](https://appie.run/twitter-marketing) | Catch X mentions for your brand and keywords, then draft replies grounded in your project guidance. |
+| [Growth Apps](https://appie.run/growth-apps) | Reddit and Twitter marketing: track mentions, filter noise, and draft on-brand replies while the thread is live. |
+| [Social Media Automation](https://appie.run/social-media-automation) | Generate social posts in your brand voice and schedule them to Facebook, Instagram, X, and LinkedIn. |
+| [Influencer Research](https://appie.run/influencer-research) | Find Instagram creators, capture profile and video metrics, shortlist talent, and send outreach. |
+| [UGC Tracker](https://appie.run/ugc-tracker) | Track creator videos on YouTube, TikTok, Instagram, and Facebook with views, engagement, spend, and campaign rollups. |
+| [Journeys](https://appie.run/journeys) | Event-triggered email sequences for signup, purchase, and custom events, in the same brand voice. |
+| [Event Store](https://appie.run) | Send product events (e.g. signup) via the API; a matching LinkedIn lead can enter a journey. |
+| [Marketplace](https://appie.run/marketplace) | Request Amazon reviews, track keyword ranks, and benchmark competitors on price and ratings. |
+| [Free AI tools](https://appie.run/tools) | Free markdown converters, sitemap utilities, FAQ generators, reply writers, and chat over your own text. |
+
+Developers: [HTTP API docs](https://appie.run/docs/api) · [MCP docs](https://appie.run/docs/mcp) · [Appie MCP server repo](https://github.com/appierun/appie-mcp)
+
 ## Install
 
 Requires Node.js 18 or newer. No dependencies.
