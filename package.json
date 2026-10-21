@@ -1,0 +1,16 @@
+{
+  "name": "@appierun/cli",
+  "version": "0.1.0",
+  "description": "Command-line client for the Appie.run API: short links, articles, chatbots, Reddit and LinkedIn tools.",
+  "bin": { "appie": "bin/appie.js" },
+  "files": ["bin/", "README.md", "LICENSE"],
+  "engines": { "node": ">=18" },
+  "scripts": { "test": "node test/mock-test.js" },
+  "keywords": ["cli", "appie", "marketing", "ai", "reddit", "linkedin", "chatbot", "mcp"],
+  "homepage": "https://appie.run",
+  "repository": { "type": "git", "url": "git+https://github.com/appierun/appie-cli.git" },
+  "bugs": { "url": "https://github.com/appierun/appie-cli/issues" },
+  "license": "MIT",
+  "author": "Appie.run",
+  "publishConfig": { "access": "public" }
+}
